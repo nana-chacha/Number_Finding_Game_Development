@@ -9,6 +9,8 @@ public class server {
     private static final String DB_PASSWORD = "123456789";
 
     public static void main(String[] args) throws IOException {
+
+        System.out.println("Thấy đổi thì phản hồi nhooooooooooooooooooooooooooooooo⭐⭐⭐⭐⭐");
         ServerSocket serverSocket = new ServerSocket(PORT);
         System.out.println("Server is listening on port " + PORT);
 
